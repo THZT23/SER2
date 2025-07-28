@@ -1,0 +1,46 @@
+[14:18:11] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:18:14] [ServerMain/INFO]: Loaded 7 recipes
+[14:18:14] [ServerMain/INFO]: Loaded 1271 advancements
+[14:18:15] [Server thread/INFO]: Starting minecraft server version 1.20
+[14:18:15] [Server thread/INFO]: Loading properties
+[14:18:15] [Server thread/INFO]: Default game type: SURVIVAL
+[14:18:15] [Server thread/INFO]: Generating keypair
+[14:18:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:18:15] [Server thread/INFO]: Using epoll channel type
+[14:18:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:18:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:18:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:18:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:18:16] [Server thread/INFO]: Preparing level "world"
+[14:18:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:31] [Server thread/INFO]: Time elapsed: 9794 ms
+[14:18:31] [Server thread/INFO]: Done (15.407s)! For help, type "help"
+[14:18:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:18:31] [Server thread/INFO]: home/codespace/.python/current/bin/python /workspaces/SER2/msx.py<--[HERE]
+[14:19:03] [Server thread/INFO]: Lea[/127.102.132.167:35009] logged in with entity id 81 at (-410.72344039792756, 65.0, 167.69999998807907)
+[14:19:03] [Server thread/INFO]: Lea joined the game
+[14:19:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
+[14:19:33] [Server thread/INFO]: Lea lost connection: Timed out
+[14:19:33] [Server thread/INFO]: Lea left the game
+[14:19:46] [Server thread/INFO]: Lea[/127.102.132.167:33157] logged in with entity id 417 at (-410.72344039792756, 65.0, 167.69999998807907)
+[14:19:46] [Server thread/INFO]: Lea joined the game
+[14:20:34] [Server thread/WARN]: UUID of added entity already exists: bsh['Sheep'/858, l='ServerLevel[world]', x=-672.03, y=70.00, z=111.03]
