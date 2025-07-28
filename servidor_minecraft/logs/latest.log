@@ -58,3 +58,14 @@
 [16:10:57] [Server thread/INFO]: Lea[/127.102.132.167:47899] logged in with entity id 18504 at (-451.1529477152033, 64.0, 188.51249998807907)
 [16:10:57] [Server thread/INFO]: Lea joined the game
 [16:17:57] [Server thread/INFO]: [Not Secure] <thiagoo> wwwwwwwwwwwwwwwwwwwwwwwwsw
+[16:21:46] [Server thread/INFO]: nicoleeee[/127.142.99.169:57361] logged in with entity id 22929 at (8.5, 63.0, 8.5)
+[16:21:46] [Server thread/INFO]: nicoleeee joined the game
+[16:22:05] [Server thread/INFO]: [Lea: Teleported nicoleeee to thiagoo]
+[16:23:49] [Server thread/WARN]: nicoleeee moved too quickly! -2.6356195208218764,-0.49520087700592796,9.887489600027664
+[16:24:18] [Server thread/WARN]: nicoleeee moved too quickly! -9.710636388594025,1.2491870787446828,3.3543176938476336
+[16:24:33] [Server thread/WARN]: thiagoo moved too quickly! -7.839886235607594,2.0,6.24441570873671
+[16:24:42] [Server thread/WARN]: thiagoo moved too quickly! 0.008062109641855386,10.339761832243767,0.0
+[16:26:17] [Server thread/WARN]: nicoleeee moved too quickly! -0.03165666064131756,10.448005015491376,-0.18140743579252216
+[16:26:20] [Server thread/WARN]: nicoleeee moved too quickly! -0.2806732571705197,10.4450001904368,0.10237347331792535
+[16:27:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-42, y=80, z=89} gu{x=-42, y=81, z=88}
+[16:29:46] [Server thread/INFO]: nicoleeee has made the advancement [The Parrots and the Bats]
