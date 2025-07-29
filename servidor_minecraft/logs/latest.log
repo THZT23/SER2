@@ -191,3 +191,5 @@
 [18:54:04] [Server thread/INFO]: thiagoo lost connection: Disconnected
 [18:54:04] [Server thread/INFO]: thiagoo left the game
 [19:00:23] [Server thread/WARN]: Lea moved too quickly! -13.350077928549126,-0.6980912066627525,11.855655269416815
+[19:02:45] [Server thread/INFO]: Villager byb['Librarian'/186, l='ServerLevel[world]', x=-459.48, y=64.00, z=190.54] was struck by lightning bfy['Lightning Bolt'/50822, l='ServerLevel[world]', x=-457.50, y=67.00, z=191.50].
+[19:02:45] [Server thread/INFO]: Villager byb['Librarian'/188, l='ServerLevel[world]', x=-456.55, y=64.00, z=190.30] was struck by lightning bfy['Lightning Bolt'/50822, l='ServerLevel[world]', x=-457.50, y=67.00, z=191.50].
