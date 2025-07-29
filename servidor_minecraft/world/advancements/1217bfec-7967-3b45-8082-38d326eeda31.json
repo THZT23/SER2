@@ -2580,6 +2580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-29 15:50:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-07-29 15:39:42 +0000"
@@ -2601,6 +2607,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-07-29 15:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-07-29 15:50:55 +0000"
     },
     "done": true
   },
@@ -2628,6 +2640,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-29 15:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-29 15:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-29 15:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-29 15:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-29 15:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-07-29 15:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-29 15:40:28 +0000"
@@ -2640,9 +2688,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-29 15:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-29 15:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-29 15:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-29 15:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-29 15:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-29 15:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-29 15:50:54 +0000"
     },
     "done": true
   },
@@ -2664,9 +2748,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-29 15:47:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-07-29 15:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-29 15:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-29 15:50:55 +0000"
     },
     "done": true
   },
@@ -2679,6 +2781,18 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-29 15:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-29 15:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-29 15:47:55 +0000"
     },
     "done": true
   },
@@ -2700,15 +2814,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-29 15:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-07-29 15:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-29 15:50:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_candle": {
     "criteria": {
       "has_light_gray_dye": "2025-07-29 15:40:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-29 15:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-29 15:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-29 15:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-07-29 15:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-29 15:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-07-29 15:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-29 15:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-07-29 15:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-29 15:50:57 +0000"
     },
     "done": true
   },
@@ -2721,6 +2901,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-07-29 15:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-29 15:47:55 +0000"
     },
     "done": true
   },
@@ -2739,6 +2925,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-07-29 15:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-29 15:50:54 +0000"
     },
     "done": true
   },
@@ -2766,9 +2958,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-29 15:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-07-29 15:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-29 15:50:57 +0000"
     },
     "done": true
   },
@@ -2778,9 +2982,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-29 15:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-29 15:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-29 15:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-29 15:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-07-29 15:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-29 15:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-29 15:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-07-29 15:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-07-29 15:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-29 15:47:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-29 15:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-29 15:50:11 +0000"
     },
     "done": true
   },
