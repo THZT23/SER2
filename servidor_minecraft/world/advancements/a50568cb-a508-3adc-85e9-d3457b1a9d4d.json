@@ -4087,9 +4087,9 @@
     },
     "done": true
   },
-  "minecraft:nether/distract_piglin": {
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
-      "distract_piglin": "2025-07-29 18:38:44 +0000"
+      "has_bone_block": "2025-07-29 18:29:30 +0000"
     },
     "done": true
   },
@@ -4099,9 +4099,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+  "minecraft:nether/distract_piglin": {
     "criteria": {
-      "has_bone_block": "2025-07-29 18:29:30 +0000"
+      "distract_piglin": "2025-07-29 18:38:44 +0000"
     },
     "done": true
   },
