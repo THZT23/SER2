@@ -3978,5 +3978,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-07-28 23:57:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3463
 }
