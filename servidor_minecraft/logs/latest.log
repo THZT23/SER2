@@ -157,3 +157,14 @@
 [18:20:07] [Server thread/INFO]: [Not Secure] <thiagoo> z
 [18:20:09] [Server thread/INFO]: [Not Secure] <thiagoo> z
 [18:20:25] [Server thread/INFO]: [Lea: Teleported Lea to thiagoo]
+[18:27:50] [Server thread/WARN]: thiagoo moved too quickly! 4.882704124304041,4.812305043991373,-7.391800557805482
+[18:28:00] [Server thread/INFO]: [Not Secure] <Lea> me voy al neder
+[18:28:06] [Server thread/INFO]: [Not Secure] <thiagoo> dale
+[18:28:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2316ms or 46 ticks behind
+[18:29:28] [Server thread/INFO]: Lea has completed the challenge [Hot Tourist Destinations]
+[18:30:35] [Server thread/WARN]: Lea moved too quickly! 15.181378673605082,9.12672044667174,5.269981486406522
+[18:30:50] [Server thread/WARN]: Lea moved too quickly! -9.953933316810549,4.001992217580096,14.518466533819904
+[18:33:09] [Server thread/WARN]: thiagoo moved too quickly! 9.782131045232802,0.0,-2.43131527676735
+[18:37:32] [Server thread/WARN]: Lea moved too quickly! 17.37009766637317,3.262803474949017,3.610541958809867
+[18:38:07] [Server thread/INFO]: Lea has made the advancement [Those Were the Days]
+[18:38:44] [Server thread/INFO]: Lea has made the advancement [Oh Shiny]

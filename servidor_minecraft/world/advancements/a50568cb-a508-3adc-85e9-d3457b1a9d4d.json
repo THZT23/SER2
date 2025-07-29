@@ -1378,10 +1378,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-27 17:27:10 +0000",
       "minecraft:nether_wastes": "2025-07-26 16:09:30 +0000",
+      "minecraft:soul_sand_valley": "2025-07-29 18:29:28 +0000",
       "minecraft:basalt_deltas": "2025-07-26 16:15:20 +0000",
       "minecraft:warped_forest": "2025-07-26 16:18:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
@@ -4083,6 +4084,24 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
     "criteria": {
       "has_deepslate_copper_ore": "2025-07-29 15:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-07-29 18:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-29 18:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-29 18:29:30 +0000"
     },
     "done": true
   },
