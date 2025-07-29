@@ -47,3 +47,5 @@
 [13:18:30] [Server thread/INFO]: Lea left the game
 [13:18:45] [Server thread/INFO]: Lea[/127.102.132.167:58271] logged in with entity id 1074 at (-472.4723594364196, 65.00133597911214, 176.93138050246353)
 [13:18:45] [Server thread/INFO]: Lea joined the game
+[13:58:04] [Server thread/WARN]: Lea moved too quickly! 15.471467081676849,9.590975584405996,-2.30984399775474
+[13:58:35] [Server thread/INFO]: Lea fell from a high place
