@@ -1,15 +1,16 @@
 {
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_iron_pickaxe": "2025-07-29 00:16:54 +0000"
+      "unlock_right_away": "2025-07-29 00:04:29 +0000"
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "iron_pickaxe": "2025-07-29 00:16:54 +0000"
+      "minecraft:forest": "2025-07-29 00:04:30 +0000",
+      "minecraft:plains": "2025-07-29 00:04:48 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/combat/bow": {
     "criteria": {
@@ -17,45 +18,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-07-29 00:19:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-07-29 00:05:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-07-29 00:04:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-07-29 00:09:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-07-29 00:08:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-07-29 00:06:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-07-29 00:14:52 +0000"
     },
     "done": true
   },
@@ -77,22 +42,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-29 00:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-29 00:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-29 00:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-29 00:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-07-29 00:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-29 00:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-29 00:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-29 00:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-29 00:16:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-29 00:16:54 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "minecraft:forest": "2025-07-29 00:04:30 +0000",
-      "minecraft:plains": "2025-07-29 00:04:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-07-29 00:05:32 +0000"
+      "has_carrot": "2025-07-29 00:19:50 +0000"
     },
     "done": true
   },
@@ -105,18 +117,6 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-29 00:19:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-07-29 00:06:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2025-07-29 00:05:32 +0000"
     },
     "done": true
   },
