@@ -1,195 +1,44 @@
-[17:41:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:41:06] [ServerMain/INFO]: Loaded 7 recipes
-[17:41:07] [ServerMain/INFO]: Loaded 1271 advancements
-[17:41:07] [Server thread/INFO]: Starting minecraft server version 1.20
-[17:41:07] [Server thread/INFO]: Loading properties
-[17:41:07] [Server thread/INFO]: Default game type: SURVIVAL
-[17:41:07] [Server thread/INFO]: Generating keypair
-[17:41:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:41:08] [Server thread/INFO]: Using epoll channel type
-[17:41:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:41:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:41:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:41:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:41:08] [Server thread/INFO]: Preparing level "world"
-[17:41:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:41:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:21] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[17:41:22] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[17:41:23] [Server thread/INFO]: Time elapsed: 9354 ms
-[17:41:23] [Server thread/INFO]: Done (14.889s)! For help, type "help"
-[17:41:23] [Server thread/INFO]: thiagoo[/127.30.190.145:55035] logged in with entity id 59 at (-463.30000001192093, 64.0, 183.40810056699743)
-[17:41:23] [Server thread/INFO]: thiagoo joined the game
-[17:41:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2785ms or 55 ticks behind
-[17:41:44] [Server thread/WARN]: thiagoo moved too quickly! -0.8812974099809594,1.0013359791121417,10.006936915128733
-[17:41:59] [Server thread/INFO]: /advancement (grant|revoke)
-[17:41:59] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[17:41:59] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[17:41:59] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[17:41:59] [Server thread/INFO]: /clear [<targets>]
-[17:41:59] [Server thread/INFO]: /clone (<begin>|from)
-[17:41:59] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[17:41:59] [Server thread/INFO]: /data (merge|get|remove|modify)
-[17:41:59] [Server thread/INFO]: /datapack (enable|disable|list)
-[17:41:59] [Server thread/INFO]: /debug (start|stop|function)
-[17:41:59] [Server thread/INFO]: /defaultgamemode <gamemode>
-[17:41:59] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[17:41:59] [Server thread/INFO]: /effect (clear|give)
-[17:41:59] [Server thread/INFO]: /me <action>
-[17:41:59] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[17:41:59] [Server thread/INFO]: /experience (add|set|query)
-[17:41:59] [Server thread/INFO]: /xp -> experience
-[17:41:59] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[17:41:59] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[17:41:59] [Server thread/INFO]: /forceload (add|remove|query)
-[17:41:59] [Server thread/INFO]: /function <name>
-[17:41:59] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[17:41:59] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[17:41:59] [Server thread/INFO]: /give <targets> <item> [<count>]
-[17:41:59] [Server thread/INFO]: /help [<command>]
-[17:41:59] [Server thread/INFO]: /item (replace|modify)
-[17:41:59] [Server thread/INFO]: /kick <targets> [<reason>]
-[17:41:59] [Server thread/INFO]: /kill [<targets>]
-[17:41:59] [Server thread/INFO]: /list [uuids]
-[17:41:59] [Server thread/INFO]: /locate (structure|biome|poi)
-[17:41:59] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[17:41:59] [Server thread/INFO]: /msg <targets> <message>
-[17:41:59] [Server thread/INFO]: /tell -> msg
-[17:41:59] [Server thread/INFO]: /w -> msg
-[17:41:59] [Server thread/INFO]: /particle <name> [<pos>]
-[17:41:59] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[17:41:59] [Server thread/INFO]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[17:41:59] [Server thread/INFO]: /reload
-[17:41:59] [Server thread/INFO]: /recipe (give|take)
-[17:41:59] [Server thread/INFO]: /return <value>
-[17:41:59] [Server thread/INFO]: /ride <target> (mount|dismount)
-[17:41:59] [Server thread/INFO]: /say <message>
-[17:41:59] [Server thread/INFO]: /schedule (function|clear)
-[17:41:59] [Server thread/INFO]: /scoreboard (objectives|players)
-[17:41:59] [Server thread/INFO]: /seed
-[17:41:59] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[17:41:59] [Server thread/INFO]: /spawnpoint [<targets>]
-[17:41:59] [Server thread/INFO]: /setworldspawn [<pos>]
-[17:41:59] [Server thread/INFO]: /spectate [<target>]
-[17:41:59] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[17:41:59] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[17:41:59] [Server thread/INFO]: /summon <entity> [<pos>]
-[17:41:59] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[17:41:59] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[17:41:59] [Server thread/INFO]: /teammsg <message>
-[17:41:59] [Server thread/INFO]: /tm -> teammsg
-[17:41:59] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[17:41:59] [Server thread/INFO]: /tp -> teleport
-[17:41:59] [Server thread/INFO]: /tellraw <targets> <message>
-[17:41:59] [Server thread/INFO]: /time (set|add|query)
-[17:41:59] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[17:41:59] [Server thread/INFO]: /trigger <objective> [add|set]
-[17:41:59] [Server thread/INFO]: /weather (clear|rain|thunder)
-[17:41:59] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[17:41:59] [Server thread/INFO]: /jfr (start|stop)
-[17:41:59] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[17:41:59] [Server thread/INFO]: /banlist [ips|players]
-[17:41:59] [Server thread/INFO]: /ban <targets> [<reason>]
-[17:41:59] [Server thread/INFO]: /deop <targets>
-[17:41:59] [Server thread/INFO]: /op <targets>
-[17:41:59] [Server thread/INFO]: /pardon <targets>
-[17:41:59] [Server thread/INFO]: /pardon-ip <target>
-[17:41:59] [Server thread/INFO]: /perf (start|stop)
-[17:41:59] [Server thread/INFO]: /save-all [flush]
-[17:41:59] [Server thread/INFO]: /save-off
-[17:41:59] [Server thread/INFO]: /save-on
-[17:41:59] [Server thread/INFO]: /setidletimeout <minutes>
-[17:41:59] [Server thread/INFO]: /stop
-[17:41:59] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[17:43:02] [Server thread/INFO]: Incorrect argument for command
-[17:43:02] [Server thread/INFO]: msg Puto <--[HERE]
-[17:43:38] [Server thread/INFO]: No player was found
-[17:44:17] [Server thread/INFO]: You whisper to thiagoo: PUTOM
-[17:44:34] [Server thread/INFO]: You whisper to thiagoo: puto
-[17:46:22] [Server thread/INFO]: [Not Secure] <thiagoo> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
-[17:46:29] [Server thread/INFO]: [Not Secure] <thiagoo> puto
-[17:47:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[17:47:16] [Server thread/INFO]: e/effect give thiagoo minecraft:levitation 5<--[HERE]
-[17:49:19] [Server thread/INFO]: Can't find element 'minecraft:levitaci' of type 'minecraft:mob_effect'
-[17:51:38] [Server thread/INFO]: You whisper to thiagoo: perrooooooooooooooooooooooooooooooooooooooooooooo
-[18:03:07] [Server thread/WARN]: thiagoo moved too quickly! 10.065524453817318,0.0,1.5244036919829966
-[18:09:08] [Server thread/INFO]: [Not Secure] <thiagoo> ewswswswswsswswswsw
-[18:13:23] [Server thread/INFO]: You whisper to thiagoo: ya entro 
-[18:13:34] [Server thread/INFO]: [Not Secure] <thiagoo> dale
-[18:14:39] [Server thread/WARN]: thiagoo moved too quickly! -9.673141283817813,1.0,-2.48042399159624
-[18:16:20] [Server thread/INFO]: Lea[/127.174.81.16:37531] logged in with entity id 24488 at (-438.46461435618903, 64.0, 205.9845805900531)
-[18:16:20] [Server thread/INFO]: Lea joined the game
-[18:16:30] [Server thread/INFO]: [Not Secure] <thiagoo> lea hacete tp
-[18:16:51] [Server thread/INFO]: [Not Secure] <thiagoo> lea veniii
-[18:16:58] [Server thread/WARN]: Lea moved too quickly! -7.002073620578528,0.875,-7.436637549888019
-[18:17:05] [Server thread/INFO]: Lea lost connection: Timed out
-[18:17:05] [Server thread/INFO]: Lea left the game
-[18:17:20] [Server thread/INFO]: Lea[/127.174.81.16:59779] logged in with entity id 25157 at (-463.7915963073093, 64.875, 191.05921737676474)
-[18:17:20] [Server thread/INFO]: Lea joined the game
-[18:17:46] [Server thread/INFO]: [Not Secure] <Lea> espera
-[18:18:00] [Server thread/INFO]: [Not Secure] <Lea> que
-[18:18:07] [Server thread/INFO]: [Not Secure] <thiagoo> harreglatela y hacele un lugar
-[18:18:19] [Server thread/INFO]: [Not Secure] <thiagoo> el hijo del giova
-[18:18:24] [Server thread/INFO]: [Not Secure] <Lea> para q no da nada bueno
-[18:18:34] [Server thread/INFO]: [Not Secure] <thiagoo> nose
-[18:19:35] [Server thread/INFO]: [Not Secure] <Lea> bien lo de los aldianos
-[18:20:00] [Server thread/INFO]: [Not Secure] <Lea> ww
-[18:20:01] [Server thread/INFO]: [Not Secure] <Lea> w
-[18:20:02] [Server thread/INFO]: [Not Secure] <Lea> w
-[18:20:02] [Server thread/INFO]: [Not Secure] <Lea> w
-[18:20:03] [Server thread/INFO]: [Not Secure] <Lea> w
-[18:20:07] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[18:20:07] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[18:20:09] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[18:20:25] [Server thread/INFO]: [Lea: Teleported Lea to thiagoo]
-[18:27:50] [Server thread/WARN]: thiagoo moved too quickly! 4.882704124304041,4.812305043991373,-7.391800557805482
-[18:28:00] [Server thread/INFO]: [Not Secure] <Lea> me voy al neder
-[18:28:06] [Server thread/INFO]: [Not Secure] <thiagoo> dale
-[18:28:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2316ms or 46 ticks behind
-[18:29:28] [Server thread/INFO]: Lea has completed the challenge [Hot Tourist Destinations]
-[18:30:35] [Server thread/WARN]: Lea moved too quickly! 15.181378673605082,9.12672044667174,5.269981486406522
-[18:30:50] [Server thread/WARN]: Lea moved too quickly! -9.953933316810549,4.001992217580096,14.518466533819904
-[18:33:09] [Server thread/WARN]: thiagoo moved too quickly! 9.782131045232802,0.0,-2.43131527676735
-[18:37:32] [Server thread/WARN]: Lea moved too quickly! 17.37009766637317,3.262803474949017,3.610541958809867
-[18:38:07] [Server thread/INFO]: Lea has made the advancement [Those Were the Days]
-[18:38:44] [Server thread/INFO]: Lea has made the advancement [Oh Shiny]
-[18:43:39] [Server thread/INFO]: Lea was slain by Piglin
-[18:43:48] [Server thread/INFO]: [Not Secure] <thiagoo> jajajaajaj
-[18:44:04] [Server thread/INFO]: [Not Secure] <thiagoo> perdiste algo
-[18:44:07] [Server thread/INFO]: [Not Secure] <Lea> jaja
-[18:44:11] [Server thread/INFO]: [Not Secure] <Lea> na
-[18:44:20] [Server thread/INFO]: [Not Secure] <thiagoo> bueno
-[18:45:33] [Server thread/INFO]: [Not Secure] <Lea> voy a estar afk
-[18:45:40] [Server thread/INFO]: [Not Secure] <thiagoo> dale
-[18:46:44] [Server thread/INFO]: [Not Secure] <Lea> dormi
-[18:47:08] [Server thread/INFO]: Lea lost connection: Disconnected
-[18:47:08] [Server thread/INFO]: Lea left the game
-[18:47:09] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[18:47:37] [Server thread/INFO]: Lea[/127.174.81.16:34483] logged in with entity id 39453 at (-406.4446445509006, 181.0, 178.83942981223217)
-[18:47:37] [Server thread/INFO]: Lea joined the game
-[18:52:02] [Server thread/INFO]: thiagoo was doomed to fall by Lea
-[18:52:14] [Server thread/INFO]: [Not Secure] <Lea> a no
-[18:52:14] [Server thread/WARN]: thiagoo moved too quickly! 9.329107061611694,1.1661092609382138,-3.704756973459581
-[18:52:32] [Server thread/INFO]: [Not Secure] <Lea> y las elitras
-[18:52:46] [Server thread/INFO]: Lea fell from a high place
-[18:53:23] [Server thread/INFO]: [Not Secure] <thiagoo> ayudame a en contrar las alitras
-[18:54:04] [Server thread/INFO]: thiagoo lost connection: Disconnected
-[18:54:04] [Server thread/INFO]: thiagoo left the game
-[19:00:23] [Server thread/WARN]: Lea moved too quickly! -13.350077928549126,-0.6980912066627525,11.855655269416815
-[19:02:45] [Server thread/INFO]: Villager byb['Librarian'/186, l='ServerLevel[world]', x=-459.48, y=64.00, z=190.54] was struck by lightning bfy['Lightning Bolt'/50822, l='ServerLevel[world]', x=-457.50, y=67.00, z=191.50].
-[19:02:45] [Server thread/INFO]: Villager byb['Librarian'/188, l='ServerLevel[world]', x=-456.55, y=64.00, z=190.30] was struck by lightning bfy['Lightning Bolt'/50822, l='ServerLevel[world]', x=-457.50, y=67.00, z=191.50].
+[23:17:11] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:17:13] [ServerMain/INFO]: Loaded 7 recipes
+[23:17:13] [ServerMain/INFO]: Loaded 1271 advancements
+[23:17:14] [Server thread/INFO]: Starting minecraft server version 1.20
+[23:17:14] [Server thread/INFO]: Loading properties
+[23:17:14] [Server thread/INFO]: Default game type: SURVIVAL
+[23:17:14] [Server thread/INFO]: Generating keypair
+[23:17:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:17:14] [Server thread/INFO]: Using epoll channel type
+[23:17:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:17:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:17:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:17:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:17:15] [Server thread/INFO]: Preparing level "world"
+[23:17:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:17:30] [Server thread/INFO]: Time elapsed: 9602 ms
+[23:17:30] [Server thread/INFO]: Done (15.664s)! For help, type "help"
+[23:17:30] [Server thread/INFO]: thiagoo[/127.173.226.97:38115] logged in with entity id 62 at (-405.69999998807907, 128.24918707874468, 179.64673307825876)
+[23:17:31] [Server thread/INFO]: thiagoo joined the game
+[23:17:33] [Server thread/WARN]: thiagoo moved too quickly! 0.0,-10.806526110008988,0.0
+[23:17:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2818ms or 56 ticks behind
+[23:17:36] [Server thread/INFO]: thiagoo fell from a high place
+[23:18:05] [Server thread/INFO]: Kiaraa[/127.30.190.145:44647] logged in with entity id 1118 at (-591.5601298472343, 119.0, 273.07540861777403)
+[23:18:06] [Server thread/INFO]: Kiaraa joined the game
+[23:26:02] [Server thread/INFO]: Villager byb['Fisherman'/447, l='ServerLevel[world]', x=-463.71, y=64.00, z=189.81] died, message: 'Fisherman was slain by thiagoo'
