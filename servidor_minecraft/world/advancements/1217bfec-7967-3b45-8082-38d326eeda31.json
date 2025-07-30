@@ -482,6 +482,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-30 19:47:30 +0000",
+      "chicken": "2025-07-30 21:24:58 +0000",
       "cooked_mutton": "2025-07-29 02:31:49 +0000",
       "beef": "2025-07-28 16:43:39 +0000",
       "apple": "2025-07-27 20:26:56 +0000",
@@ -3199,9 +3200,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-30 21:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-30 20:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-30 21:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-30 21:24:52 +0000"
     },
     "done": true
   },
