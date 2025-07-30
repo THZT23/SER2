@@ -1,159 +1,46 @@
-[18:25:05] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:25:08] [ServerMain/INFO]: Loaded 7 recipes
-[18:25:08] [ServerMain/INFO]: Loaded 1271 advancements
-[18:25:08] [Server thread/INFO]: Starting minecraft server version 1.20
-[18:25:08] [Server thread/INFO]: Loading properties
-[18:25:08] [Server thread/INFO]: Default game type: SURVIVAL
-[18:25:08] [Server thread/INFO]: Generating keypair
-[18:25:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:25:09] [Server thread/INFO]: Using epoll channel type
-[18:25:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:25:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:25:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:25:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:25:09] [Server thread/INFO]: Preparing level "world"
-[18:25:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:25:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:23] [Server thread/INFO]: Time elapsed: 8756 ms
-[18:25:23] [Server thread/INFO]: Done (14.371s)! For help, type "help"
-[18:27:26] [Server thread/INFO]: thiagoo[/127.216.42.7:43399] logged in with entity id 80 at (-424.4362735852515, 64.0, 183.19192280805873)
-[18:27:26] [Server thread/INFO]: thiagoo joined the game
-[18:27:32] [Server thread/INFO]: Lea[/127.187.236.115:43497] logged in with entity id 355 at (-492.137417745911, 70.0, 161.67318584422193)
-[18:27:32] [Server thread/INFO]: Lea joined the game
-[18:27:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[18:28:02] [Server thread/INFO]: Lea lost connection: Timed out
-[18:28:02] [Server thread/INFO]: Lea left the game
-[18:28:13] [Server thread/INFO]: Lea[/127.187.236.115:38545] logged in with entity id 621 at (-492.137417745911, 70.0, 161.67318584422193)
-[18:28:13] [Server thread/INFO]: Lea joined the game
-[18:33:03] [Server thread/INFO]: Villager byb['Villager'/183, l='ServerLevel[world]', x=-443.74, y=63.90, z=179.15] died, message: 'Villager was slain by Lea'
-[18:33:10] [Server thread/INFO]: Lea was slain by Iron Golem
-[18:34:04] [Server thread/INFO]: Lea was slain by Iron Golem
-[18:35:50] [Server thread/INFO]: Lea was slain by Iron Golem
-[18:36:46] [Server thread/INFO]: [Not Secure] <Lea> thiagoo
-[18:36:50] [Server thread/INFO]: [Not Secure] <Lea> zzz
-[18:36:53] [Server thread/INFO]: [Not Secure] <thiagoo> Q
-[18:36:58] [Server thread/INFO]: [Not Secure] <Lea> zzz
-[18:40:35] [Server thread/INFO]: [Not Secure] <Lea> voy a estar afk
-[18:41:13] [Server thread/WARN]: thiagoo moved too quickly! 16.76371949012804,2.3591732729560704,-4.8843358034334585
-[18:42:46] [Server thread/WARN]: thiagoo was kicked for floating too long!
-[18:42:46] [Server thread/INFO]: thiagoo lost connection: Flying is not enabled on this server
-[18:42:46] [Server thread/INFO]: thiagoo left the game
-[18:43:01] [Server thread/INFO]: thiagoo[/127.216.42.7:44971] logged in with entity id 4123 at (-466.0495932002144, 65.67318337793286, 172.51395558174897)
-[18:43:01] [Server thread/INFO]: thiagoo joined the game
-[18:45:31] [Server thread/WARN]: thiagoo moved too quickly! 0.3170015417565537,10.050122464368926,0.06535324553451005
-[18:45:49] [Server thread/INFO]: [Lea: Teleported Lea to thiagoo]
-[18:46:49] [Server thread/INFO]: [Not Secure] <Lea> me voy 5 ta
-[18:46:51] [Server thread/INFO]: Lea lost connection: Disconnected
-[18:46:51] [Server thread/INFO]: Lea left the game
-[18:53:39] [Server thread/INFO]: [Not Secure] <thiagoo> wwwwwwww
-[18:53:40] [Server thread/INFO]: [Not Secure] <thiagoo> w
-[18:53:41] [Server thread/INFO]: [Not Secure] <thiagoo> ww
-[18:53:41] [Server thread/INFO]: [Not Secure] <thiagoo> www
-[18:53:41] [Server thread/INFO]: [Not Secure] <thiagoo> www
-[18:55:03] [Server thread/WARN]: thiagoo moved too quickly! -17.06971875383067,2.3886551646950096,-1.9791469347442217
-[18:59:00] [Server thread/INFO]: Lea[/127.187.236.115:60109] logged in with entity id 11264 at (-403.66745631136337, 64.0, 167.14697877064404)
-[18:59:00] [Server thread/INFO]: Lea joined the game
-[19:04:21] [Server thread/INFO]: [Not Secure] <Lea> z
-[19:04:22] [Server thread/INFO]: [Not Secure] <Lea> z
-[19:04:22] [Server thread/INFO]: [Not Secure] <Lea> z
-[19:04:23] [Server thread/INFO]: [Not Secure] <Lea> z
-[19:04:24] [Server thread/INFO]: [Not Secure] <Lea> z
-[19:04:42] [Server thread/INFO]: [Not Secure] <Lea> z
-[19:04:44] [Server thread/INFO]: [Not Secure] <Lea> w
-[19:04:48] [Server thread/INFO]: [Not Secure] <Lea> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
-[19:04:56] [Server thread/INFO]: [Not Secure] <Lea> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
-[19:05:02] [Server thread/INFO]: [Not Secure] <Lea> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
-[19:05:03] [Server thread/INFO]: [Not Secure] <thiagoo> zz
-[19:05:09] [Server thread/INFO]: [Not Secure] <thiagoo> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
-[19:08:28] [Server thread/WARN]: thiagoo moved too quickly! 5.3835066104592215,0.0,8.656901093777549
-[19:12:44] [Server thread/INFO]: [Not Secure] <thiagoo> gil
-[19:12:48] [Server thread/INFO]: [Not Secure] <Lea> q
-[19:13:00] [Server thread/INFO]: [Not Secure] <thiagoo> el cofre del end
-[19:13:07] [Server thread/INFO]: [Not Secure] <Lea> ahi
-[19:13:19] [Server thread/INFO]: [Not Secure] <thiagoo> tenia un par de cosas
-[19:13:24] [Server thread/INFO]: [Not Secure] <thiagoo> no esta
-[19:13:30] [Server thread/INFO]: [Not Secure] <Lea> si esa
-[19:13:34] [Server thread/INFO]: [Not Secure] <thiagoo> ylo vi
-[19:14:11] [Server thread/WARN]: thiagoo moved too quickly! 13.927243850326704,9.447869677782336,-6.047509476259364
-[19:16:13] [Server thread/INFO]: [Not Secure] <Lea> z
-[19:23:14] [Server thread/WARN]: thiagoo moved too quickly! 6.238281663165651,0.0,7.83801289110275
-[19:26:26] [Server thread/INFO]: [Not Secure] <thiagoo> q hiciste???
-[19:37:20] [Server thread/WARN]: Player thiagoo just tried to change non-editable sign
-[19:38:08] [Server thread/INFO]: [Not Secure] <thiagoo> tenes madera
-[19:38:14] [Server thread/INFO]: [Not Secure] <thiagoo> oscura
-[19:38:22] [Server thread/INFO]: [Not Secure] <Lea> la voy a usar
-[19:49:57] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[20:00:38] [Server thread/INFO]: [Not Secure] <Lea> zzz
-[20:11:28] [Server thread/INFO]: [Not Secure] <Lea> zz
-[20:22:33] [Server thread/INFO]: [Not Secure] <Lea> zzz
-[20:22:38] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[20:22:38] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[20:22:38] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[20:22:39] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[20:33:44] [Server thread/INFO]: [Not Secure] <Lea> zz
-[20:33:48] [Server thread/INFO]: [Not Secure] <thiagoo> zzz
-[20:35:57] [Server thread/INFO]: Lea was slain by thiagoo
-[20:44:21] [Server thread/INFO]: [Not Secure] <thiagoo> xz
-[20:44:21] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[20:44:21] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[20:44:21] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[20:44:22] [Server thread/INFO]: [Not Secure] <thiagoo> zz
-[20:44:23] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[20:49:34] [Server thread/WARN]: Lea moved too quickly! 0.21297370979772268,0.0,-10.27364029701127
-[20:55:42] [Server thread/INFO]: [Not Secure] <Lea> zzz
-[20:56:25] [Server thread/INFO]: [Not Secure] <Lea> zz
-[20:56:26] [Server thread/INFO]: [Not Secure] <Lea> zz
-[20:56:27] [Server thread/INFO]: [Not Secure] <Lea> z
-[20:56:27] [Server thread/INFO]: [Not Secure] <Lea> z
-[20:56:29] [Server thread/INFO]: [Not Secure] <Lea> zz
-[20:56:31] [Server thread/INFO]: [Not Secure] <Lea> zzz
-[21:01:25] [Server thread/INFO]: thiagoo fell from a high place
-[21:07:26] [Server thread/INFO]: [Not Secure] <thiagoo> Z
-[21:07:26] [Server thread/INFO]: [Not Secure] <thiagoo> Z
-[21:07:26] [Server thread/INFO]: [Not Secure] <thiagoo> Z
-[21:12:07] [Server thread/INFO]: [Lea: Teleported Lea to thiagoo]
-[21:17:58] [Server thread/INFO]: [Not Secure] <Lea> zz
-[21:17:58] [Server thread/INFO]: [Not Secure] <Lea> z
-[21:17:58] [Server thread/INFO]: [Not Secure] <Lea> z
-[21:18:00] [Server thread/INFO]: [Not Secure] <Lea> z
-[21:18:01] [Server thread/INFO]: [Not Secure] <Lea> zz
-[21:18:07] [Server thread/INFO]: [Not Secure] <Lea> zzz zzz
-[21:18:09] [Server thread/INFO]: [Not Secure] <Lea> z
-[21:28:42] [Server thread/INFO]: [Not Secure] <Lea> zzzzzzzzzzzzzzzz
-[21:28:47] [Server thread/INFO]: [Not Secure] <Lea> zzzzzzzzzz zzzzzzzz
-[21:28:52] [Server thread/INFO]: [Not Secure] <Lea> zzzzzzzz zzzzzz
-[21:28:56] [Server thread/INFO]: [Not Secure] <Lea> zzzzzzzzzzz zzzzzzzz
-[21:33:50] [Server thread/WARN]: thiagoo moved wrongly!
-[21:40:11] [Server thread/INFO]: [Not Secure] <Lea> zzz zzz
-[21:40:14] [Server thread/INFO]: [Not Secure] <thiagoo> ZZ
-[21:40:14] [Server thread/INFO]: [Not Secure] <thiagoo> Z
-[21:40:14] [Server thread/INFO]: [Not Secure] <thiagoo> Z
-[21:40:14] [Server thread/INFO]: [Not Secure] <thiagoo> Z
-[21:40:16] [Server thread/INFO]: [Not Secure] <Lea> zz zz
-[21:44:45] [Server thread/INFO]: [Not Secure] <thiagoo> GILLL VENI RAPIDOO
-[21:44:55] [Server thread/INFO]: [Lea: Teleported Lea to thiagoo]
-[21:50:50] [Server thread/INFO]: [Not Secure] <Lea> zzz zzz
-[21:50:54] [Server thread/INFO]: [Not Secure] <Lea> zz zz
-[21:50:59] [Server thread/INFO]: [Not Secure] <Lea> zz zz
-[22:02:30] [Server thread/INFO]: [Not Secure] <thiagoo> zz
-[22:02:30] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[22:02:31] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[22:02:31] [Server thread/INFO]: [Not Secure] <thiagoo> z
-[22:18:37] [Server thread/INFO]: thiagoo lost connection: Disconnected
-[22:18:37] [Server thread/INFO]: thiagoo left the game
+[23:22:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:22:32] [ServerMain/INFO]: Loaded 7 recipes
+[23:22:32] [ServerMain/INFO]: Loaded 1271 advancements
+[23:22:33] [Server thread/INFO]: Starting minecraft server version 1.20
+[23:22:33] [Server thread/INFO]: Loading properties
+[23:22:33] [Server thread/INFO]: Default game type: SURVIVAL
+[23:22:33] [Server thread/INFO]: Generating keypair
+[23:22:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:22:34] [Server thread/INFO]: Using epoll channel type
+[23:22:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:22:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:22:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:22:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:22:34] [Server thread/INFO]: Preparing level "world"
+[23:22:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:22:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:22:49] [Server thread/INFO]: Time elapsed: 9422 ms
+[23:22:49] [Server thread/INFO]: Done (15.347s)! For help, type "help"
+[23:22:50] [Server thread/INFO]: thiagoo[/127.216.42.7:58677] logged in with entity id 60 at (-505.9619077048909, 117.0, 254.93349977659068)
+[23:22:50] [Server thread/INFO]: thiagoo joined the game
+[23:22:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3273ms or 65 ticks behind
+[23:27:42] [Server thread/INFO]: Kiaraa[/127.216.42.7:56727] logged in with entity id 1159 at (-479.01233485849065, 63.9375, 187.3072638823547)
+[23:27:42] [Server thread/INFO]: Kiaraa joined the game
+[23:28:52] [Server thread/WARN]: Kiaraa moved too quickly! 0.0,10.465000184059107,0.0
+[23:30:42] [Server thread/INFO]: Kiaraa lost connection: Timed out
+[23:30:42] [Server thread/INFO]: Kiaraa left the game
+[23:31:11] [Server thread/INFO]: Kiaraa[/127.216.42.7:56301] logged in with entity id 1716 at (-513.6638406988101, 122.0, 259.78498674037706)
+[23:31:11] [Server thread/INFO]: Kiaraa joined the game
