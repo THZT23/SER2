@@ -27,3 +27,46 @@
 [00:20:28] [Server thread/INFO]: thiagoo was slain by Lea
 [00:20:40] [Server thread/INFO]: [Lea: Teleported thiagoo to Lea]
 [00:22:56] [Server thread/INFO]: Villager byb['Villager'/198, l='ServerLevel[world]', x=-441.49, y=64.00, z=209.18] died, message: 'Villager suffocated in a wall'
+[00:25:05] [Server thread/INFO]: [Not Secure] <Lea> q haces
+[00:25:18] [Server thread/INFO]: [Not Secure] <Lea> q haces
+[00:25:36] [Server thread/INFO]: [Not Secure] <thiagoo> una granga de piedra
+[00:25:41] [Server thread/INFO]: [Not Secure] <Lea> para
+[00:25:57] [Server thread/INFO]: [Not Secure] <thiagoo> presiso mucha
+[00:26:04] [Server thread/INFO]: [Not Secure] <thiagoo> z
+[00:26:04] [Server thread/INFO]: [Not Secure] <thiagoo> z
+[00:26:04] [Server thread/INFO]: [Not Secure] <thiagoo> z
+[00:26:05] [Server thread/INFO]: [Not Secure] <thiagoo> z
+[00:26:06] [Server thread/INFO]: [Not Secure] <Lea> z
+[00:26:52] [Server thread/INFO]: [Not Secure] <Lea> zz
+[00:27:07] [Server thread/INFO]: [Not Secure] <Lea> zz
+[00:27:07] [Server thread/INFO]: [Not Secure] <Lea> zzz
+[00:27:08] [Server thread/INFO]: [Not Secure] <Lea> zz
+[00:27:11] [Server thread/INFO]: [Not Secure] <thiagoo> z
+[00:27:11] [Server thread/INFO]: [Not Secure] <thiagoo> z
+[00:27:12] [Server thread/INFO]: [Not Secure] <thiagoo> z
+[00:27:12] [Server thread/INFO]: [Not Secure] <thiagoo> z
+[00:27:12] [Server thread/INFO]: [Not Secure] <thiagoo> z
+[00:27:13] [Server thread/INFO]: [Not Secure] <thiagoo> zz
+[00:27:13] [Server thread/INFO]: [Not Secure] <thiagoo> z
+[00:27:16] [Server thread/INFO]: thiagoo was slain by Lea
+[00:27:32] [Server thread/INFO]: Villager byb['Villager'/170, l='ServerLevel[world]', x=-447.70, y=64.00, z=188.70] died, message: 'Villager was slain by Kiaraa'
+[00:27:41] [Server thread/INFO]: Villager byb['Villager'/177, l='ServerLevel[world]', x=-435.55, y=64.00, z=194.70] died, message: 'Villager was slain by Kiaraa'
+[00:28:03] [Server thread/INFO]: Villager byb['Villager'/200, l='ServerLevel[world]', x=-445.79, y=64.00, z=183.79] died, message: 'Villager was slain by Kiaraa'
+[00:28:57] [Server thread/WARN]: Kiaraa moved too quickly! 8.776627714285723,0.0,-5.329825933969403
+[00:30:03] [Server thread/INFO]: Kiaraa lost connection: Timed out
+[00:30:03] [Server thread/INFO]: Kiaraa left the game
+[00:30:14] [Server thread/INFO]: thiagoo lost connection: Timed out
+[00:30:14] [Server thread/INFO]: thiagoo left the game
+[00:30:18] [Server thread/INFO]: Kiaraa[/127.216.42.7:48703] logged in with entity id 23701 at (-487.1126829055191, 64.0, 213.59478534513394)
+[00:30:18] [Server thread/INFO]: Kiaraa joined the game
+[00:30:23] [Server thread/INFO]: thiagoo[/127.216.42.7:41551] logged in with entity id 23747 at (-452.54160693107184, 64.0, 192.68289049518543)
+[00:30:23] [Server thread/INFO]: thiagoo joined the game
+[00:30:49] [Server thread/INFO]: Kiaraa lost connection: Timed out
+[00:30:49] [Server thread/INFO]: Kiaraa left the game
+[00:30:53] [Server thread/INFO]: thiagoo lost connection: Timed out
+[00:30:53] [Server thread/INFO]: thiagoo left the game
+[00:31:43] [Server thread/INFO]: Kiaraa[/127.19.49.124:32965] logged in with entity id 23923 at (-487.1126829055191, 64.0, 213.59478534513394)
+[00:31:43] [Server thread/INFO]: Kiaraa joined the game
+[00:31:53] [Server thread/INFO]: thiagoo[/127.19.49.124:39099] logged in with entity id 23974 at (-452.54160693107184, 64.0, 192.68289049518543)
+[00:31:53] [Server thread/INFO]: thiagoo joined the game
+[00:32:55] [Server thread/INFO]: Villager byb['Villager'/163, l='ServerLevel[world]', x=-420.31, y=68.00, z=207.34] died, message: 'Villager was slain by Lea'
