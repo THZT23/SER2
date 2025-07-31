@@ -33,3 +33,6 @@
 [00:51:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
 [00:51:59] [Server thread/INFO]: Time elapsed: 9275 ms
 [00:51:59] [Server thread/INFO]: Done (15.139s)! For help, type "help"
+[01:11:42] [Server thread/INFO]: Lea[/127.187.236.115:41595] logged in with entity id 84 at (-450.308645954329, 64.0, 187.1531339560457)
+[01:11:42] [Server thread/INFO]: Lea joined the game
+[01:11:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
