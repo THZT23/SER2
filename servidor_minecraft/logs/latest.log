@@ -1,3 +1,29 @@
 [00:00:11] [Server thread/INFO]: thiagoo[/127.216.42.7:37095] logged in with entity id 15611 at (-472.35430775546644, 64.03573972913881, 205.58170269263647)
 [00:00:11] [Server thread/INFO]: thiagoo joined the game
 [00:02:33] [Server thread/INFO]: Kiaraa was slain by thiagoo
+[00:11:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[00:13:40] [Server thread/INFO]: thiagoo was doomed to fall
+[00:15:43] [Server thread/INFO]: thiagoo burned to death
+[00:15:47] [Server thread/INFO]: Kiaraa has made the advancement [Monster Hunter]
+[00:17:03] [Server thread/INFO]: Lea[/127.187.236.115:39189] logged in with entity id 20431 at (-449.662640845312, 64.0, 188.69999998807907)
+[00:17:03] [Server thread/INFO]: Lea joined the game
+[00:17:16] [Server thread/INFO]: Lea suffocated in a wall
+[00:17:33] [Server thread/INFO]: Lea lost connection: Disconnected
+[00:17:33] [Server thread/INFO]: Lea left the game
+[00:17:59] [Server thread/INFO]: Lea[/127.187.236.115:36667] logged in with entity id 20894 at (-449.662640845312, 64.0, 188.69999998807907)
+[00:17:59] [Server thread/INFO]: Lea joined the game
+[00:18:06] [Server thread/INFO]: [Not Secure] <thiagoo> GIL
+[00:18:22] [Server thread/INFO]: [Not Secure] <thiagoo> A SEME TP A VOS
+[00:18:30] [Server thread/INFO]: Lea lost connection: Timed out
+[00:18:30] [Server thread/INFO]: Lea left the game
+[00:18:52] [Server thread/INFO]: Lea[/127.187.236.115:39363] logged in with entity id 21213 at (-451.08697160424873, 64.0, 186.5995356756159)
+[00:18:52] [Server thread/INFO]: Lea joined the game
+[00:19:42] [Server thread/INFO]: [Not Secure] <Lea> w
+[00:19:44] [Server thread/INFO]: [Not Secure] <Lea> q
+[00:19:47] [Server thread/INFO]: [Not Secure] <thiagoo> Lea lea
+[00:19:51] [Server thread/INFO]: [Not Secure] <Lea> q
+[00:19:57] [Server thread/INFO]: [Not Secure] <thiagoo> haceme tp a vos
+[00:20:08] [Server thread/INFO]: [Lea: Teleported thiagoo to Kiaraa]
+[00:20:28] [Server thread/INFO]: thiagoo was slain by Lea
+[00:20:40] [Server thread/INFO]: [Lea: Teleported thiagoo to Lea]
+[00:22:56] [Server thread/INFO]: Villager byb['Villager'/198, l='ServerLevel[world]', x=-441.49, y=64.00, z=209.18] died, message: 'Villager suffocated in a wall'

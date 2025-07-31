@@ -4105,15 +4105,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/chest_minecart": {
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
-      "has_minecart": "2025-07-30 22:23:33 +0000"
+      "has_stripped_logs": "2025-07-30 19:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-30 19:31:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-07-30 19:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-30 19:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-30 19:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2025-07-30 22:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-07-30 22:23:33 +0000"
     },
     "done": true
   },
@@ -4135,33 +4165,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
+  "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
-      "has_stripped_logs": "2025-07-30 19:31:11 +0000"
+      "has_planks": "2025-07-31 00:19:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
+  "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
-      "has_beef": "2025-07-30 19:55:56 +0000"
+      "has_planks": "2025-07-31 00:19:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+  "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
-      "has_log": "2025-07-30 19:31:11 +0000"
+      "has_planks": "2025-07-31 00:19:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
-      "has_the_recipe": "2025-07-30 22:22:34 +0000"
+      "has_planks": "2025-07-31 00:19:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
-      "has_beef": "2025-07-30 19:55:56 +0000"
+      "has_planks": "2025-07-31 00:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-31 00:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-31 00:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-07-31 00:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-07-31 00:19:28 +0000"
     },
     "done": true
   },
