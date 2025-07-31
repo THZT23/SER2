@@ -884,5 +884,17 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-07-31 00:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-31 00:39:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3463
 }

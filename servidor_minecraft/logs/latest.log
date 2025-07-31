@@ -70,3 +70,19 @@
 [00:31:53] [Server thread/INFO]: thiagoo[/127.19.49.124:39099] logged in with entity id 23974 at (-452.54160693107184, 64.0, 192.68289049518543)
 [00:31:53] [Server thread/INFO]: thiagoo joined the game
 [00:32:55] [Server thread/INFO]: Villager byb['Villager'/163, l='ServerLevel[world]', x=-420.31, y=68.00, z=207.34] died, message: 'Villager was slain by Lea'
+[00:36:43] [Server thread/INFO]: thiagoo was killed
+[00:36:43] [Server thread/INFO]: [Lea: Killed thiagoo]
+[00:37:02] [Server thread/INFO]: thiagoo was slain by Lea
+[00:37:23] [Server thread/INFO]: [Not Secure] <Kiaraa> zzzz
+[00:37:27] [Server thread/INFO]: [Not Secure] <Lea> zz
+[00:38:25] [Server thread/WARN]: thiagoo moved too quickly! -0.5614188689843331,-0.6995767040478995,10.055802121068155
+[00:38:26] [Server thread/WARN]: thiagoo was kicked for floating too long!
+[00:38:26] [Server thread/INFO]: thiagoo lost connection: Flying is not enabled on this server
+[00:38:26] [Server thread/INFO]: thiagoo left the game
+[00:38:34] [Server thread/INFO]: thiagoo[/127.19.49.124:42125] logged in with entity id 25280 at (-461.9630037567448, 65.25220334025373, 169.02116627805083)
+[00:38:34] [Server thread/INFO]: thiagoo joined the game
+[00:39:09] [Server thread/INFO]: thiagoo was slain by Kiaraa
+[00:39:11] [Server thread/INFO]: Kiaraa has reached the goal [Sky's the Limit]
+[00:40:52] [Server thread/INFO]: thiagoo tried to swim in lava
+[00:41:05] [Server thread/INFO]: [Not Secure] <Lea> a no
+[00:41:32] [Server thread/INFO]: [Lea: Teleported thiagoo to Lea]
